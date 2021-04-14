@@ -1,2 +1,6 @@
 este el el archivo4
+<<<<<<< HEAD
 este es la nueva modificacion
+=======
+Qué genialidad todo!
+>>>>>>> be3ec9dbca24ffec88c4e395950fcee2252db6fe
